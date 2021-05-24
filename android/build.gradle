@@ -34,6 +34,6 @@ android {
 }
 
 dependencies {
-    api 'com.umeng.umsdk:analytics:8.1.4'
+    api 'com.umeng.umsdk:analytics:7.5.3'
     api 'com.umeng.umsdk:common:2.1.8'
 }
